@@ -17,3 +17,9 @@
 [原题链接](https://www.acwing.com/problem/content/789/)
 
 [模板文件](./src/merge_sort.cpp)
+
+## 逆序对的数量
+
+[原题链接](https://www.acwing.com/problem/content/790/)
+
+[模板文件](./src/merge_find.cpp)
